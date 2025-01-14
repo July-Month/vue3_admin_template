@@ -5,7 +5,10 @@
 </template>
 
 <script setup lang="ts">
-const str = '好好学习'
+for (let i = 0; i<10;i++)
+{
+  console.log(i);
+}
 </script>
 
 <style scoped lang="scss">
